@@ -1,4 +1,4 @@
-<img align='right' src='images/CollaborativePuzzle.png' width="200px" />
+<img align='right' src='images/CollaborativePuzzle.png' width="500px" />
 
 ### Hi there 👋  
 ✨Welcome to the <strong>GEM Lab @ HKU</strong>!✨
