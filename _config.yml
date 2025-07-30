@@ -34,7 +34,6 @@ author:
   googlescholar: "https://scholar.google.com/citations?user=xxxxxxx"
   researchgate: "https://www.researchgate.net/profile/YourName"
   linkedin: "https://www.linkedin.com/in/yourname/"
-  youtube: "https://www.youtube.com/channel/YourChannelID"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
@@ -89,16 +88,6 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-
-# Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
