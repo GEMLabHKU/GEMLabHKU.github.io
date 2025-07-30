@@ -1,61 +1,66 @@
 ---
 permalink: /
-title: "GEM Lab - Group for Emotion and Mental health"
+title: "Welcome to GEM Lab"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Welcome to the GEM Lab (Group for Emotion and Mental health), directed by **Prof. Haolin Jiang**.  
-We focus on understanding the neural and psychological mechanisms behind emotion, mental health, and social cognition, through a combination of computational modeling, behavioral experiments, and neuroimaging.
+## 💎 Why GEM Lab?
+
+GEM Lab was established in 2024. The name *GEM* stands for **Get Everyone Moving** or **Guiding AI in Education: Methods and Applications**.
+
+To be honest, I chose the name not only for its meaning, but also because I believe every member of this team is a true **GEM** 💎 — talented, unique, and full of potential.
+
+We are an interdisciplinary research group working at the intersection of **AI, education, psychology, and cognitive science**. We aim to design intelligent, human-centered learning systems and explore how educational technologies can empower diverse learners.
 
 ---
 
-## 🧭 Lab Mission
+## 🎯 Lab Mission
 
-The GEM Lab is dedicated to advancing scientific understanding of emotion, cognition, and psychopathology.  
-We aim to:
+GEM Lab is dedicated to:
 
-- Explore how emotions shape decision-making and learning  
-- Develop computational models to capture individual differences in affective processing  
-- Investigate mental disorders such as depression and anxiety through behavioral and brain-based measures  
+- Advancing AI applications in **education and learning science**
+- Understanding **human cognition and learning behaviors** using computational methods
+- Promoting equity and inclusivity in **technology-enhanced learning environments**
+
+We combine **machine learning**, **student modeling**, and **human-in-the-loop approaches** to develop next-generation intelligent tutoring systems and assessment tools.
 
 ---
 
 ## 🔬 Research Areas
 
-Our work spans the intersection of psychology, neuroscience, and artificial intelligence. Current topics include:
+Our research spans across multiple interdisciplinary themes:
 
-- **Computational Psychiatry**  
-  Using reinforcement learning and Bayesian modeling to understand cognitive biases in depression and anxiety.
+- **Student Simulation and Performance Modeling**  
+  Building cognitive models to simulate student behavior, mistakes, and learning trajectories.
 
-- **Affective Neuroscience**  
-  Investigating the brain networks involved in emotion regulation, reward processing, and mood dynamics.
+- **Machine Unlearning and Fairness in AI for Education**  
+  Investigating how educational AI can be made fairer, more transparent, and adaptive to change.
 
-- **Social Decision-Making**  
-  Studying how people make moral or prosocial choices under uncertainty and emotion.
+- **Curriculum Learning and Knowledge Tracing**  
+  Using sequence models and knowledge distillation to enhance personalized learning.
 
-- **AI + Mental Health**  
-  Applying machine learning to mental health diagnostics and early detection.
+- **AI-Augmented Instructional Design**  
+  Developing LLM-based tools for automating lesson planning, feedback, and curriculum generation.
 
 ---
 
 ## 🌟 Representative Projects
 
-- **Emotion and Learning**  
-  Modeling how emotional states modulate learning signals (e.g., prediction errors) in healthy and clinical populations.
+- **AI Tutor Generator**  
+  A Streamlit-based system that generates personalized teaching plans from research papers using LLMs.
 
-- **Mood Drift in Dynamic Environments**  
-  Understanding how mood fluctuates over time in response to task structure and feedback.
+- **Student Simulation Challenge**  
+  A benchmark suite for evaluating the robustness of simulated learners in adaptive environments.
 
-- **Depression Risk Profiling**  
-  Developing computational markers for depression vulnerability using passive behavioral data.
+- **Knowledge Tracing via Distillation**  
+  A lightweight yet effective framework for tracing and predicting student performance across domains.
 
-- **Value-based Decision Making under Stress**  
-  Exploring how acute stress alters value computations and risk preferences.
+- **Human-AI Co-teaching Framework**  
+  Designing systems where AI augments human teachers rather than replacing them.
 
 ---
 
-For more about our lab's publications, projects, and opportunities, explore the site or [contact us](mailto:youremail@domain.com).
-
+📬 For opportunities to collaborate or join us, feel free to [get in touch](mailto:your@email.com) or explore the rest of our site.
